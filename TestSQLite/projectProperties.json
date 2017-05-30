@@ -159,7 +159,7 @@
     "vendornamekey": "KonyLabs",
     "winmobileguidkey": "",
     "nativeContainerProperties": {
-        "isModified": false,
+        "isModified": true,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false

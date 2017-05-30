@@ -5,6 +5,7 @@ BASEOBJECTID = kony.db.openDatabase("webSqlDB",
                                     "Sample SQL Database",
                                     5 * 1024 * 1024);
 
+									
 function createTable(){
   kony.db.transaction(BASEOBJECTID,
                       createTableProcess);
